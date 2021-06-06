@@ -40,7 +40,7 @@ int main()
     fInstream >> storageCapacity >> containerCost >> profit; //Importing our data into our variables
 
     cout << setfill('*') << setw(75) << " " << endl;
-    cout << setfill('*') << setw(23) << " " << "Welcome to my Cheesy Program" << setfill('*') << setw(23) << " " << endl; //Introduction Paragraph
+    cout << setfill('*') << setw(23) << " " << "Cheese Shipping Calculations" << setfill('*') << setw(23) << " " << endl; //Introduction Paragraph
     cout << setfill('*') << setw(75) << " " << endl << endl << setfill(' ') ;
     
     string s1 = "Please enter the total amount in Kilograms of cheese produced: ";
