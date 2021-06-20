@@ -1,2 +1,2 @@
 # C++ Class
-This repository is a log of all of my practice coding assignments from my summer 2021 c++ coding class. This weeks upload consists of a program that calculates the shipping costs for packages of different prices, and also for packages going to different locations.
+This repository is a log of all of my practice coding assignments from my summer 2021 c++ coding class. This weeks upload consists of a program that analyzes a file (in this case the constitution of the United States), and calculates how many of specific letters are in the entire document. It began only calculating the vowels, but 3 other letters were also added. It also calculated the total amount of vowels in the document.
